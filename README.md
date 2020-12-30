@@ -4,3 +4,7 @@
 
 # Requirement
 Python3
+
+#How to use
+in Your Unreal Engine Project derectory, run vsence.py.
+It changes the compileCommands.json and c_cpp_properties.json.
