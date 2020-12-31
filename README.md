@@ -1,6 +1,6 @@
 # UE4 VScode Intellisence Batch
 
-When using Visual Studio Code in Unreal engine4, the intellisence of VSC sometimes does not intelligently work. This batch might get the intelligence work well.
+When using Visual Studio Code in Unreal engine4, the intellisence of C/C++ extension intellisence from Microdoft sometimes does not intelligently work. This batch might get the intelligence work well.
 
 # Requirement
 Python3
